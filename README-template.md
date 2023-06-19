@@ -21,8 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](![image](https://github.com/C9Rane/qrmentor/assets/100531824/b006f097-36d7-4668-b14b-3afa35b36ee8)
-)
+![qrmentor](https://github.com/C9Rane/qrmentor/assets/100531824/f0aaeebc-f41e-4ae9-9dfc-d0d11b4c4152)
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
@@ -33,6 +32,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 **Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
+
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
