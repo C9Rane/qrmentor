@@ -1,0 +1,25 @@
+.main {
+ margin-left: auto;
+ margin-right: auto;
+ background-color: white;
+ width: 25%;
+ margin-top: 150px;
+ margin-bottom: auto;
+ padding-block: 15px;
+ padding-inline: 15px;
+ border-radius: 20px;
+}
+
+body {
+    background-color: hsl(220, 15%, 55%);
+    text-align: center;
+}
+
+p {
+    font-size: 15px;
+}
+
+img {
+    width: 100%;
+    border-radius: 20px;
+}
